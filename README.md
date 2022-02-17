@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
   I'm Ahmed Elkady </h1>
 <h3 align="center"> Jr Software Engineer & Icpc Zagazige Team leader  </h3>
-<img align="right" height="250" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EngAhmedElkady&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedElkady" /> </p>
 
