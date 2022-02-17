@@ -8,7 +8,7 @@
 
 -  I’m interested to grow up in **Back End** field.
 
--  I’m currently learning **Computer Networking **
+-  I’m currently learning **Computer Networking**
 
 -  I’m looking to collaborate on **OpenSource Projects**
 
