@@ -8,13 +8,13 @@
 
 -  I’m interested to grow up in **Back End** field.
 
--  I’m currently learning **Computer Networking**
+-  I’m currently learning **Computer Networking**.
 
--  I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**.
 
--  How to reach me **ahmedabdalkaderma@gmail.com**
+-  How to reach me **ahmedabdalkaderma@gmail.com**.
 
--  Fun fact **I play Football and go to the GYM.**
+-  Fun fact **I play Football and go to the GYM**.
 
 ## 🚀 Languages and Tools:
 
