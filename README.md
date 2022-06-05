@@ -10,7 +10,6 @@
 
 <h3>Where to find me</h3>
 
-- business email : lastcode.edu@gmail.com
 - personal email : ahmedabdalkaderma@gmail.com
 - linkedIn : https://www.linkedin.com/in/ahmed-elkady1
 - youtube channel : https://www.youtube.com/c/LastCode 
