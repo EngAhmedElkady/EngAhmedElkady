@@ -1,6 +1,4 @@
 <h2> Hi there, I'm Ahmed Elkady 👋:heart: </h2>
-
- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  
 - Back End Developer
 - ICPC Zagazig Community Team Leader
