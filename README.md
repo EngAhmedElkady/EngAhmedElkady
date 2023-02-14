@@ -1,4 +1,5 @@
 <h2> Hi there, I'm Ahmed Elkady 👋:heart: </h2>
+<h3> If we want users to like our software, we should design it to behave like a likeable person. </h3>
  
 - Software Engineer
 - EX: ICPC Zagazig Community Team Leader
