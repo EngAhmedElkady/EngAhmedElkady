@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Ahmed Elkady 👋:heart: </h2>
  
-- Back End Developer
-- ICPC Zagazig Community Team Leader
+- Software Engineer
+- EX: ICPC Zagazig Community Team Leader
 <hr>
 
 <h2> Contact with me on </h2>
