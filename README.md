@@ -13,3 +13,20 @@
 - linkedIn : https://www.linkedin.com/in/ahmed-elkady1
 - youtube channel : https://www.youtube.com/c/AhmedElkadyy 
 <hr>
+<hr>
+
+***The most important step of all is the first step. Start something.***
+
+***— Blake Mycoskie***
+
+<hr>
+
+<div align="center">
+
+## **ودائما تذكر فضل الله عليك**
+
+#### **﴿ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا﴾** 
+
+#### **﴿ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ ﴾** 
+
+</div>
