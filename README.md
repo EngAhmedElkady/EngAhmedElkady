@@ -13,7 +13,6 @@
 - linkedIn : https://www.linkedin.com/in/ahmed-elkady1
 - youtube channel : https://www.youtube.com/c/AhmedElkadyy 
 <hr>
-<hr>
 
 ***The most important step of all is the first step. Start something.***
 
