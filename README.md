@@ -13,13 +13,6 @@
 - linkedIn : https://www.linkedin.com/in/ahmed-elkady1
 - youtube channel : https://www.youtube.com/c/AhmedElkadyy 
 <hr>
-
-***The most important step of all is the first step. Start something.***
-
-***— Blake Mycoskie***
-
-<hr>
-
 <div align="center">
 
 ## **ودائما تذكر فضل الله عليك**
